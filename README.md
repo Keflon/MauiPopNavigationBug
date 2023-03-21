@@ -1,6 +1,6 @@
 # MauiPopNavigationBug
 
-## Repro here:
+## Bug report here:
 https://github.com/dotnet/maui/issues/14092
 
 ## 
